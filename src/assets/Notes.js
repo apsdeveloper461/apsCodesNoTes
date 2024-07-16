@@ -4,7 +4,7 @@ export default  [
         "search":'python books handwritten notes handwrittenNotes',
         "category":"Programming Language",
         "img":{
-            "url":'python.png',
+            "url":'https://res.cloudinary.com/doywrub5q/image/upload/v1721114237/python_gknnwl.png',
             "alt":"python logo"
         },
         "downloadLink":'./src/assets/apsCodeNoTes/notes/python_notes.pdf'
@@ -14,7 +14,7 @@ export default  [
         "search":'Java books handwritten notes handwrittenNotes',
         "category":"Programming Language",
         "img":{
-            "url":'java.png',
+            "url":'https://res.cloudinary.com/doywrub5q/image/upload/v1721114224/java_jyb8ie.png',
             "alt":"java logo"
         },
         "downloadLink":'./src/assets/apsCodeNoTes/notes/java_notes.pdf'
@@ -24,7 +24,7 @@ export default  [
         "search":'Js  books handwritten notes handwrittenNotes',
         "category":"Programming Language & Web",
         "img":{
-            "url":'js.svg',
+            "url":'https://res.cloudinary.com/doywrub5q/image/upload/v1721114224/js_qrjjjs.svg',
             "alt":"js logo"
         },
         "downloadLink":'./src/assets/apsCodeNoTes/notes/js_notes.pdf'
@@ -34,7 +34,7 @@ export default  [
         "search":'HTML hyper text markup language hypertextmarkuplanguage books handwritten notes handwrittenNotes',
         "category":"Frontend Development",
         "img":{
-            "url":'html.png',
+            "url":'https://res.cloudinary.com/doywrub5q/image/upload/v1721114234/html_o2ddpf.png',
             "alt":"html logo"
         },
         "downloadLink":'./src/assets/apsCodeNoTes/notes/html_notes.pdf'
@@ -44,7 +44,7 @@ export default  [
         "search":'CSS Cascading Style Sheet cascadingstylesheet books handwritten notes handwrittenNotes',
         "category":"Frontend Development",
         "img":{
-            "url":'css.png',
+            "url":'https://res.cloudinary.com/doywrub5q/image/upload/v1721114226/css_yjgush.png',
             "alt":"css logo"
         },
         "downloadLink":'./src/assets/apsCodeNoTes/notes/css_notes.pdf'
@@ -54,7 +54,7 @@ export default  [
         "search":'reactjs  books handwritten notes handwrittenNotes',
         "category":"Frontend Development",
         "img":{
-            "url":'react.png',
+            "url":'https://res.cloudinary.com/doywrub5q/image/upload/v1721114240/react_cui9r0.png',
             "alt":"react logo"
         },
         "downloadLink":'./src/assets/apsCodeNoTes/notes/reactjs_notes.pdf'
@@ -64,7 +64,7 @@ export default  [
         "search":'nodejs books handwritten notes handwrittenNotes',
         "category":"Backend Development",
         "img":{
-            "url":'nodejs.png',
+            "url":'https://res.cloudinary.com/doywrub5q/image/upload/v1721114230/nodejs_lyzsvl.png',
             "alt":"nodejs logo"
         },
         "downloadLink":'./src/assets/apsCodeNoTes/notes/nodejs_notes.pdf'
@@ -74,7 +74,7 @@ export default  [
         "search":'ExpressJs books handwritten notes handwrittenNotes',
         "category":"Backend Development",
         "img":{
-            "url":'express.png',
+            "url":'https://res.cloudinary.com/doywrub5q/image/upload/v1721114228/express_yfle2o.png',
             "alt":"expressjs logo"
         },
         "downloadLink":'./src/assets/apsCodeNoTes/notes/expressjs_notes.pdf'
@@ -84,7 +84,7 @@ export default  [
         "search":'mongodb db books handwritten notes handwrittenNotes',
         "category":"Database",
         "img":{
-            "url":'mongodb.png',
+            "url":'https://res.cloudinary.com/doywrub5q/image/upload/v1721114327/icons8-mongodb-144_lzpf1h.png',
             "alt":"mongodb logo"
         },
         "downloadLink":'./src/assets/apsCodeNoTes/notes/mongodb_notes.pdf'
@@ -94,7 +94,7 @@ export default  [
         "search":'fluter  books handwritten notes handwrittenNotes',
         "category":"Programming Language/Android",
         "img":{
-            "url":'flutter.png',
+            "url":'https://res.cloudinary.com/doywrub5q/image/upload/v1721114229/flutter_ethg3y.png',
             "alt":"fluter logo"
         },
         "downloadLink":'./src/assets/apsCodeNoTes/notes/flutter_notes.pdf'
@@ -104,7 +104,7 @@ export default  [
         "search":'swift books handwritten notes handwrittenNotes',
         "category":"Programming Language",
         "img":{
-            "url":'swift.png',
+            "url":'https://res.cloudinary.com/doywrub5q/image/upload/v1721114241/swift_tzgqla.png',
             "alt":"swift logo"
         },
         "downloadLink":'./src/assets/apsCodeNoTes/notes/swift_notes.pdf'
@@ -113,7 +113,7 @@ export default  [
         "search":'php  books handwritten notes handwrittenNotes',
         "category":"Programming Language & Web",
         "img":{
-            "url":'php.png',
+            "url":'https://res.cloudinary.com/doywrub5q/image/upload/v1721114236/php_dkgk9s.png',
             "alt":"php logo"
         },
         "downloadLink":'./src/assets/apsCodeNoTes/PHP/README.md'

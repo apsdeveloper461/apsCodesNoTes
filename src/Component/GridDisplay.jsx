@@ -26,7 +26,7 @@ function GridDisplay({ title, data,isDisplay=false }) {
                         {data?.length > 0 && data.map((item,idx) => {
                             return (
                                 <div key={idx + title} className={` relative min-h-full gridItem py-2 px-3 w-5/6 gap-5 mx-auto flex pb-4 flex-col  items-center justify-start ${theme === 'light' ? ' bg-slate-100 shadow-lg shadow-slate-300' : ' text-gray-500 shadow-md shadow-slate-700'} rounded-2xl  sahd `}>
-                                    <img className="img w-32 h-32 sm:h-36 sm:w-36 md:h-36 md:w-36 lg:w-36 lg:h-36  cursor-pointer rounded-full  text-center" src={`./src/assets/icons/${item.img.url}`} alt={item.img.alt} />
+                                    <img className="img w-32 h-32 sm:h-36 sm:w-36 md:h-36 md:w-36 lg:w-36 lg:h-36  cursor-pointer rounded-full  text-center" src={`${item.img.url}`} alt={item.img.alt} />
                                     <div className="px-3 gridItemContent ml-3 flex-col text-center ">
                                         <h1 className='text-xl font-semibold'>{item.title}</h1>
                                         <h2 className='text-md font-light'>{item?.category} </h2>
