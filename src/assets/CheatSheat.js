@@ -8,7 +8,7 @@ export default [
                 "alt":"html logo"
             },
             
-            "downloadLink":'./src/assets/apsCodeNoTes/cheatsheet/html_cheatsheet.pdf',
+            "downloadLink":'1DTU5nczBNv7lClUwJuWTKef621B3HFRP',
         },
         {
             "title":'CSS Cheat Sheet',
@@ -18,7 +18,7 @@ export default [
                 "url":'https://res.cloudinary.com/doywrub5q/image/upload/v1721114226/css_yjgush.png',
                 "alt":"Css logo"
             },
-            "downloadLink":'./src/assets/apsCodeNoTes/cheatsheet/css_cheatsheet.pdf',
+            "downloadLink":'1lxFLdKVTIEZU8gJMen5YSaAfsM8wPzFz',
            
         },
         {
@@ -29,7 +29,7 @@ export default [
                 "url":'https://res.cloudinary.com/doywrub5q/image/upload/v1721114224/js_qrjjjs.svg',
                 "alt":"JS logo"
             },
-            "downloadLink":'./src/assets/apsCodeNoTes/cheatsheet/js_cheatsheet.pdf',
+            "downloadLink":'1PcWsiLUKjXIX0NYfmaqnITdxxLJgCeH-',
         },
         {
             "title":'ReactJs Cheat Sheet',
@@ -39,7 +39,7 @@ export default [
                 "url":'https://res.cloudinary.com/doywrub5q/image/upload/v1721114240/react_cui9r0.png',
                 "alt":"reactJS logo"
             },
-            "downloadLink":'https://res.cloudinary.com/doywrub5q/image/upload/react_cheatsheet_zmicdp.pdf',
+            "downloadLink":'1Xxhkply3b3M0MBpG3WaKOzf2_WU8E6zL',
         },
         {
             "title":'MySQL Cheat Sheet',
@@ -49,7 +49,7 @@ export default [
                 "url":'https://res.cloudinary.com/doywrub5q/image/upload/v1721114230/mysql_vuzcq7.png',
                 "alt":"Mysql logo"
             },
-            "downloadLink":'./src/assets/apsCodeNoTes/cheatsheet/mysql_cheatsheet.pdf',
+            "downloadLink":'1RdZc6GF3Q1KMtd51z68QSAYphASiB3r-',
         },
         {
             "title":'MongoDB Cheat Sheet',
@@ -59,17 +59,7 @@ export default [
                 "url":'https://res.cloudinary.com/doywrub5q/image/upload/v1721114327/icons8-mongodb-144_lzpf1h.png',
                 "alt":"Mongodb logo"
             },
-            "downloadLink":'./src/assets/apsCodeNoTes/cheatsheet/mongodb_cheatsheet.pdf',
-        },
-        {
-            "title":'C++ Cheat Sheet',
-            "search":'C plus plus Cplusplus Cheat Sheet cheatsheets',
-            "category":"Programming Language",
-            "img":{
-                "url":'https://res.cloudinary.com/doywrub5q/image/upload/v1721114227/c_dpkvkv.png',
-                "alt":"C++ logo"
-            },
-            "downloadLink":'./src/assets/apsCodeNoTes/notes/cpp_notes.pdf'
+            "downloadLink":'1bQdvPvuwHte_SEZ-T7YG4SGGo0N9wvRa',
         },
         {
             "title":'Git Cheat Sheet',
@@ -79,10 +69,9 @@ export default [
                 "url":'https://res.cloudinary.com/doywrub5q/image/upload/v1721114235/git_agzkrk.png',
                 "alt":"Git logo"
             },
-            "downloadLink":'./src/assets/apsCodeNoTes/cheatsheet/git_cheatsheet.pdf',
+            "downloadLink":'1vaj8zb9ha9WgFArd9i_nDmnV5IS9yPFE',
         },
         
     ]
-
 
 

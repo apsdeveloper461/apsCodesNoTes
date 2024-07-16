@@ -20,8 +20,9 @@ export const downloadFileHandler = (url,theme) => {
 
   setTimeout(() => {
     const link = document.createElement('a');
-    link.href = url;
-    link.download = url.split('/').pop(); // Extract filename and set it for download
+    console.log(url);
+    link.href = 'https://drive.google.com/uc?export=download&id='+url; // Add query string to force download
+
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);

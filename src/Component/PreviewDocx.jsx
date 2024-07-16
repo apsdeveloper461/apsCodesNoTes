@@ -47,7 +47,7 @@ function PreviewDocx() {
 
 
             </div>
-            <embed src={`${previewData.docxPreviewURL}#navpanes=0&scrollbar=0`} style={{ minHeight: '400px', width: '95vw', height: '95vh' }} className='m-auto rounded-xl h-5/6 pb-10' ></embed>
+            <iframe container="#viewer" src={`https://drive.google.com/file/d/${previewData.docxPreviewURL}/preview`} style={{ minHeight: '400px', width: '95vw', height: '95vh' }} className='m-auto rounded-xl h-5/6 pb-10' ></iframe>
 
           </>
       }

@@ -7,7 +7,7 @@ export default  [
             "url":'https://res.cloudinary.com/doywrub5q/image/upload/v1721114237/python_gknnwl.png',
             "alt":"python logo"
         },
-        "downloadLink":'./src/assets/apsCodeNoTes/notes/python_notes.pdf'
+        "downloadLink":'1g2XBohTLD7W8Y6mO0hbTYVKF0_TmL9Hp'
     },
     {
         "title":'Java Notes',
@@ -17,7 +17,7 @@ export default  [
             "url":'https://res.cloudinary.com/doywrub5q/image/upload/v1721114224/java_jyb8ie.png',
             "alt":"java logo"
         },
-        "downloadLink":'./src/assets/apsCodeNoTes/notes/java_notes.pdf'
+        "downloadLink":'1vkKGMv_afuVLPtKfli8o3c72fyuHXM70'
     },
     {
         "title":'JavaScript Notes',
@@ -27,7 +27,7 @@ export default  [
             "url":'https://res.cloudinary.com/doywrub5q/image/upload/v1721114224/js_qrjjjs.svg',
             "alt":"js logo"
         },
-        "downloadLink":'./src/assets/apsCodeNoTes/notes/js_notes.pdf'
+        "downloadLink":'1_Z93SVVDQ6SSfYSeXJQjEjP8qLEA13A2'
     },
     {
         "title":'HTML Notes',
@@ -37,7 +37,7 @@ export default  [
             "url":'https://res.cloudinary.com/doywrub5q/image/upload/v1721114234/html_o2ddpf.png',
             "alt":"html logo"
         },
-        "downloadLink":'./src/assets/apsCodeNoTes/notes/html_notes.pdf'
+        "downloadLink":'1AM9isvYcmyWlgvT3EGcUEbdR7dSlm-4q'
     },
     {
         "title":'CSS Notes',
@@ -47,7 +47,7 @@ export default  [
             "url":'https://res.cloudinary.com/doywrub5q/image/upload/v1721114226/css_yjgush.png',
             "alt":"css logo"
         },
-        "downloadLink":'./src/assets/apsCodeNoTes/notes/css_notes.pdf'
+        "downloadLink":'1Ad1VThaePvVAXq5Z0_ABjZhy6F-wKE_B'
     },
     {
         "title":'ReactJs Notes',
@@ -57,7 +57,7 @@ export default  [
             "url":'https://res.cloudinary.com/doywrub5q/image/upload/v1721114240/react_cui9r0.png',
             "alt":"react logo"
         },
-        "downloadLink":'./src/assets/apsCodeNoTes/notes/reactjs_notes.pdf'
+        "downloadLink":'1_Z23PnpWBMDkx6IdEMIzUvpJcU_Ga_f6'
     },
     {
         "title":'NodeJs Notes',
@@ -67,7 +67,7 @@ export default  [
             "url":'https://res.cloudinary.com/doywrub5q/image/upload/v1721114230/nodejs_lyzsvl.png',
             "alt":"nodejs logo"
         },
-        "downloadLink":'./src/assets/apsCodeNoTes/notes/nodejs_notes.pdf'
+        "downloadLink":'1Ad1VThaePvVAXq5Z0_ABjZhy6F-wKE_B'
     },
     {
         "title":'ExpressJs Notes',
@@ -77,7 +77,7 @@ export default  [
             "url":'https://res.cloudinary.com/doywrub5q/image/upload/v1721114228/express_yfle2o.png',
             "alt":"expressjs logo"
         },
-        "downloadLink":'./src/assets/apsCodeNoTes/notes/expressjs_notes.pdf'
+        "downloadLink":'11NarimSYaQHBs0WMEQxYoQ5zzTuinWvi'
     },
     {
         "title":'MongoDB Notes',
@@ -87,7 +87,7 @@ export default  [
             "url":'https://res.cloudinary.com/doywrub5q/image/upload/v1721114327/icons8-mongodb-144_lzpf1h.png',
             "alt":"mongodb logo"
         },
-        "downloadLink":'./src/assets/apsCodeNoTes/notes/mongodb_notes.pdf'
+        "downloadLink":'1mECZbLBjaR73lJBIpZFS4u3YfR5Ofc1C'
     },
     {
         "title":'Flutter Notes',
@@ -97,7 +97,7 @@ export default  [
             "url":'https://res.cloudinary.com/doywrub5q/image/upload/v1721114229/flutter_ethg3y.png',
             "alt":"fluter logo"
         },
-        "downloadLink":'./src/assets/apsCodeNoTes/notes/flutter_notes.pdf'
+        "downloadLink":'1xSGASIfi43dhX_kyk2-sbkw1z9aZDnA9'
     },
     {
         "title":'Swift Notes',
@@ -107,7 +107,7 @@ export default  [
             "url":'https://res.cloudinary.com/doywrub5q/image/upload/v1721114241/swift_tzgqla.png',
             "alt":"swift logo"
         },
-        "downloadLink":'./src/assets/apsCodeNoTes/notes/swift_notes.pdf'
+        "downloadLink":'14FxqZ_uCTB4yVR4rorKG8_tOQ6p6lfEA'
     },{
         "title":'PHP Notes',
         "search":'php  books handwritten notes handwrittenNotes',
@@ -116,6 +116,6 @@ export default  [
             "url":'https://res.cloudinary.com/doywrub5q/image/upload/v1721114236/php_dkgk9s.png',
             "alt":"php logo"
         },
-        "downloadLink":'./src/assets/apsCodeNoTes/PHP/README.md'
+        "downloadLink":'1OQRKcHTGxZ461X2AqZ0lgcPyhgF9ATHv'
     },
 ]
