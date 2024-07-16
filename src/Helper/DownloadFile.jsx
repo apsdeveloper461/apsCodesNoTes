@@ -1,5 +1,4 @@
 import toast from 'react-hot-toast';
-import React from 'react';
 import { FaCircleNotch } from 'react-icons/fa';
 import { MdDownload } from "react-icons/md";
 
